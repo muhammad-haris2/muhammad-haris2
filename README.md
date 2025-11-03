@@ -17,4 +17,4 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,kotlin,git,github,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,cpp,kotlin,firebase,androidstudio,git,github,linkedin)](https://skillicons.dev)
